@@ -1,5 +1,5 @@
 # Selected variables in the 2018 5-year American Community Survey
-*These are provided as a convenience, and without guarantee. Once you've identified a variable you want to use, it would be wise to confirm that the name given in the list below is correct. The easiest way to do that is to go to https://api.census.gov/data/2018/acs/acs5/variables/B01003_001E.json, replacing '----------' with the 10-character variable name.*
+*These are provided as a convenience, and without guarantee. Once you've identified a variable you want to use, it would be wise to confirm that the name given in the list below is correct. The easiest way to do that is to go to https://api.census.gov/data/2018/acs/acs5/variables/----------E.json, replacing '----------' with the 10-character variable name.*
 
 *Please submit a pull request if you find an error, or to suggest a variable or set of variables you think should be added to this list*
 
