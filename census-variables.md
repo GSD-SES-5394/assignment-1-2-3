@@ -58,7 +58,7 @@
 * B08201_019: Number of 3-person households
 * B08201_025: Number of households with four or more people
 
-**Household structure**
+**Household structure**    
 *Note: It is unclear how the ACS tables and variables account for families of same-sex couples*
 * B23008_001E: Number of children living in families
 * B23008_002E: Number of children under 6 years old living in families
