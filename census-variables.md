@@ -10,22 +10,83 @@
 
 **Income**
 * B19013_001: Median annual household income (inflation-adjusted, 2018 dollars)
-* B19001_002: Number of households with an annual income of less than $10,000 (inflation-adjusted, 2018 dollars)
-* B19001_003: Number of households with an annual income between $10,000 and $14,999 (inflation-adjusted, 2018 dollars)
-* B19001_004: Number of households with an annual income between $15,000 and $19,999 (inflation-adjusted, 2018 dollars)
-* B19001_005: Number of households with an annual income between $20,000 and $24,999 (inflation-adjusted, 2018 dollars)
-* B19001_006: Number of households with an annual income between $25,000 and $29,999 (inflation-adjusted, 2018 dollars)
-* B19001_007: Number of households with an annual income between $30,000 and $34,999 (inflation-adjusted, 2018 dollars)
-* B19001_008: Number of households with an annual income between $35,000 and $39,999 (inflation-adjusted, 2018 dollars)
-* B19001_009: Number of households with an annual income between $40,000 and $44,999 (inflation-adjusted, 2018 dollars)
-* B19001_010: Number of households with an annual income between $45,000 and $49,999 (inflation-adjusted, 2018 dollars)
-* B19001_011: Number of households with an annual income between $50,000 and $59,999 (inflation-adjusted, 2018 dollars)
-* B19001_012: Number of households with an annual income between $60,000 and $74,999 (inflation-adjusted, 2018 dollars)
-* B19001_013: Number of households with an annual income between $75,000 and $99,999 (inflation-adjusted, 2018 dollars)
-* B19001_014: Number of households with an annual income between $100,000 and $124,999 (inflation-adjusted, 2018 dollars)
-* B19001_015: Number of households with an annual income between $125,000 and $149,999 (inflation-adjusted, 2018 dollars)
-* B19001_016: Number of households with an annual income between $150,000 and $199,999 (inflation-adjusted, 2018 dollars)
-* B19001_017: Number of households with an annual income of $200,000 or more (inflation-adjusted, 2018 dollars)
+* B19001_002: Number of households with an annual income of less than $10,000 (2018 dollars)
+* B19001_003: Number of households with an annual income between $10,000 and $14,999 (2018 dollars)
+* B19001_004: Number of households with an annual income between $15,000 and $19,999 (2018 dollars)
+* B19001_005: Number of households with an annual income between $20,000 and $24,999 (2018 dollars)
+* B19001_006: Number of households with an annual income between $25,000 and $29,999 (2018 dollars)
+* B19001_007: Number of households with an annual income between $30,000 and $34,999 (2018 dollars)
+* B19001_008: Number of households with an annual income between $35,000 and $39,999 (2018 dollars)
+* B19001_009: Number of households with an annual income between $40,000 and $44,999 (2018 dollars)
+* B19001_010: Number of households with an annual income between $45,000 and $49,999 (2018 dollars)
+* B19001_011: Number of households with an annual income between $50,000 and $59,999 (2018 dollars)
+* B19001_012: Number of households with an annual income between $60,000 and $74,999 (2018 dollars)
+* B19001_013: Number of households with an annual income between $75,000 and $99,999 (2018 dollars)
+* B19001_014: Number of households with an annual income between $100,000 and $124,999 (2018 dollars)
+* B19001_015: Number of households with an annual income between $125,000 and $149,999 (2018 dollars)
+* B19001_016: Number of households with an annual income between $150,000 and $199,999 (2018 dollars)
+* B19001_017: Number of households with an annual income of $200,000 or more (2018 dollars)
+
+**Vehicle ownership**
+* B08201_001: Total number of households
+* B08201_002: Total number of households with no vehicles available
+* B08201_003: Total number of households with 1 vehicle available
+* B08201_004: Total number of households with 2 vehicles available
+* B08201_005: Total number of households with 3 vehicles available
+* B08201_006: Total number of households with 4 or more vehicles available
+
+**Household size**
+* B25010_001: Average household size of occupied housing units
+* B11016_001: Total number of households
+* B11016_002: Total number of family households
+* B11016_003: Total number of 2-person family households
+* B11016_004: Total number of 3-person family households
+* B11016_005: Total number of 4-person family households
+* B11016_006: Total number of 5-person family households
+* B11016_007: Total number of 6-person family households
+* B11016_008: Total number of family households with 7 or more people
+* B11016_009: Total number of non-family households
+* B11016_010: Total number of 1-person non-family households
+* B11016_011: Total number of 2-person non-family households
+* B11016_012: Total number of 3-person non-family households
+* B11016_013: Total number of 4-person non-family households
+* B11016_014: Total number of 5-person non-family households
+* B11016_015: Total number of 6-person non-family households
+* B11016_016: Total number of non-family households with 7 or more people
+* B08201_007: Number of 1-person households
+* B08201_013: Number of 2-person households
+* B08201_019: Number of 3-person households
+* B08201_025: Number of households with four or more people
+
+**Household structure**
+*Note: It is unclear how the ACS tables and variables account for families of same-sex couples*
+* B23008_001E: Number of children living in families
+* B23008_002E: Number of children under 6 years old living in families
+* B23008_003E: Number of children under 6 years old living with two parents
+* B23008_004E: Number of children under 6 years old living with two parents in labor force
+* B23008_005E: Number of children under 6 years old living with two parents, only father in labor force
+* B23008_006E: Number of children under 6 years old living with two parents, only mother in labor force
+* B23008_007E: Number of children under 6 years old living with two parents not in labor force
+* B23008_008E: Number of children under 6 years old living with one parent
+* B23008_009E: Number of children under 6 years old living with only father
+* B23008_010E: Number of children under 6 years old living with only father (in labor force)
+* B23008_011E: Number of children under 6 years old living with only father (not in labor force)
+* B23008_012E: Number of children under 6 years old living with only mother
+* B23008_013E: Number of children under 6 years old living with only mother (in labor force)
+* B23008_014E: Number of children under 6 years old living with only mother (not in labor force)
+* B23008_015E: Number of children 6 to 17 years old living in families
+* B23008_016E: Number of children 6 to 17 years old living with two parents
+* B23008_017E: Number of children 6 to 17 years old living with two parents in labor force
+* B23008_018E: Number of children 6 to 17 years old living with two parents, only father in labor force
+* B23008_019E: Number of children 6 to 17 years old living with two parents, only mother in labor force
+* B23008_020E: Number of children 6 to 17 years old living with two parents not in labor force
+* B23008_021E: Number of children 6 to 17 years old living with one parent
+* B23008_022E: Number of children 6 to 17 years old living with only father
+* B23008_023E: Number of children 6 to 17 years old living with only father (in labor force)
+* B23008_024E: Number of children 6 to 17 years old living with only father (not in labor force)
+* B23008_025E: Number of children 6 to 17 years old living with only mother
+* B23008_026E: Number of children 6 to 17 years old living with only mother (in labor force)
+* B23008_027E: Number of children 6 to 17 years old living with only mother (not in labor force)
 
 **Education attainment**
 * B15003_001: Total population ages 25 and over.
@@ -82,6 +143,15 @@
 * B03002_020: Total Hispanic population of two races, including ‘some other race.’ 
 * B03002_021: Total Hispanic population of two or more races, excluding ‘some other race.’
 
+**Employment**
+* B23025_001: Number of people age 16 and older
+* B23025_002: Number of people age 16 and older in labor force
+* B23025_003: Number of people age 16 and older in civilian labor force
+* B23025_004: Number of employed people age 16 and older in civilian labor force
+* B23025_005: Number of unemployed people age 16 and older in civilian labor force
+* B23025_006: Number of people age 16 and older in armed forces
+* B23025_007: Number of people age 16 and older not in labor force
+
 **Nativity and Citizenship**
 * B05001_01: Total population
 * B05001_02: Total population of U.S. citizens born in the United States
@@ -89,4 +159,3 @@
 * B05001_04: Total population of U.S. citizens born abroad to American parents
 * B05001_05: Total population of naturalized U.S. citizens
 * B05001_06: Total population of non- U.S. citizens
-
